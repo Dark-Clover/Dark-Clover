@@ -16,8 +16,10 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dark-Clover&theme=tokyonight)
 
+![](https://komarev.com/ghpvc/?username=Dark-Clover&color=blue)
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dark-Clover&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Dark-Clover&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
