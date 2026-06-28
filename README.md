@@ -19,7 +19,7 @@
 ![](https://komarev.com/ghpvc/?username=Dark-Clover&color=blue)
 
 ## 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Dark-Clover&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/Dark-Clover=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
